@@ -1,9 +1,44 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Este es un sitio de prueba para enseñar a crear sitios web con Quarto.\nEntra a este enlace para leer la guía completa."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "tutorial_blog_quarto",
     "section": "",
     "text": "Este es un sitio de prueba para enseñar a crear sitios web con Quarto.\nEntra a este enlace para leer la guía completa.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMi primera publicación en mi blog Quarto\n\n\n\n\n\n\nnoticias\n\n\nR\n\n\nprogramación\n\n\n\n\n\n\n\n\n\nMar 29, 2025\n\n\nBastián Olea\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMar 28, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 25, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/nuevo/index.html",
+    "href": "posts/nuevo/index.html",
+    "title": "Mi primera publicación en mi blog Quarto",
+    "section": "",
+    "text": "¡Hola! 🦝"
+  },
+  {
+    "objectID": "readme.html",
+    "href": "readme.html",
+    "title": "Blog Quarto: tutorial",
+    "section": "",
+    "text": "Este es un repositorio de prueba para enseñar a crear blogs con Quarto.\nEntra a este enlace para leer la guía completa y aprender a crear blogs gratis usando R y Quarto."
   }
 ]
