@@ -1,0 +1,9 @@
+---
+title: "Mi primera publicación en mi blog Quarto"
+author: "Bastián Olea"
+date: "2025-03-29"
+categories: [noticias, R, programación]
+image: "IMG_1677.jpeg"
+---
+
+¡Hola! 🦝

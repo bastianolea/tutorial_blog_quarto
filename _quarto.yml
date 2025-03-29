@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Blog Quarto: tutorial"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/bastianolea
+      - icon: linkedin
+        href: https://www.linkedin.com/in/bastianolea/
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+
